@@ -1,6 +1,6 @@
 # BERT-fine-tuning-for-twitter-sentiment-analysis
 * first    **Download the pre-trained models**
-  > download the pre-trained models from the https://github.com/google-research/bert#pre-trained-models , unzip the .zip file and push the files
+  > download the pre-trained models from the https://github.com/google-research/bert#pre-trained-models , unzip the .zip file and put the files
     in the Bert_base_dir.
 * second   **Run the run_classifier.py**
   > cd the dir test_bert\
